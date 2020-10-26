@@ -1,3 +1,3 @@
 ### Opencloudcx Helm Chart
-helm install grafana ./opencloudcx-helm 
-helm uninstall grafana
+- helm install opencloud ./opencloudcx-helm 
+- helm uninstall opencloud
