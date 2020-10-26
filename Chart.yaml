@@ -1,0 +1,7 @@
+name: opencloudcx
+description: Helm Chart for Opencloudcx
+version: 0.0.1
+keywords:
+  - opencloudcx
+sources:
+home:
