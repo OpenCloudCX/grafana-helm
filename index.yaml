@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2020-10-26T11:57:39.502380753-04:00"
+entries:
+  opencloudcx:
+  - apiVersion: v1
+    created: "2020-10-27T12:08:15.150498805-04:00"
+    description: Helm Chart for Opencloudcx
+    digest: 345277780294bed7c7737c329531e993dedbd07321d86ebf37af18a1afb9e7b0
+    keywords:
+    - opencloudcx
+    name: opencloudcx
+    urls:
+    - https://opencloudcx.github.io/grafana-helm/opencloudcx-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-10-27T12:08:15.149136579-04:00"
