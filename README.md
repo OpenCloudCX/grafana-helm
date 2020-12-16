@@ -9,4 +9,4 @@
 3. Generate .tgz: hepm package .
 4. Generate index.yaml: helm repo index . --url https://opencloudcx.github.io/grafana-helm
 5. Test as above.
-6. Commit and push your changes
+6. Commit and push your changes to: https://github.com/OpenCloudCX/grafana-helm
