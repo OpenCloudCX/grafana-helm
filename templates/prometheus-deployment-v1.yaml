@@ -30,7 +30,7 @@ spec:
         io.kompose.service: prometheus
     spec:
       containers:
-      - image: gboie/opencloudcx-prometheus
+      - image: opencloudcx/opencloudcx-prometheus
         imagePullPolicy: Always
         name: prometheus
         ports:

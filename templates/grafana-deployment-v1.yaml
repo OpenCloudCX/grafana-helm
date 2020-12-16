@@ -30,7 +30,7 @@ spec:
         io.kompose.service: grafana
     spec:
       containers:
-      - image: gboie/opencloudcx-grafana
+      - image: opencloudcx/opencloudcx-grafana
         imagePullPolicy: Always
         name: grafana
         ports:
